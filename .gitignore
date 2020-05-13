@@ -1,0 +1,9 @@
+*.log
+*.err
+__pycache__/
+slurm/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+*/*/*/.ipynb_checkpoints/
+*/*/*/*/.ipynb_checkpoints/
